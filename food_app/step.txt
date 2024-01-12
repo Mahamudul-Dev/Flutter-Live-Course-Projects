@@ -1,0 +1,9 @@
+1. Create a login screen
+2. Write function for login
+3. Create category model
+4. Create product model
+5. Design home screen UI
+6. Implement auto complete functionality
+7. Implement category navigation
+8. Implement product details navigation
+9. Design product details screen 

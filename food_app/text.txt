@@ -1,0 +1,11 @@
+pizza = https://media02.stockfood.com/largepreviews/NDE4Mjc5OTkz/13492903-Gluten-free-Pizza-Margherita-cut-into-pieces.jpg
+burger = https://media.istockphoto.com/id/1227215701/photo/combo-set-of-fast-food-juicy-hamburger-french-fries-chicken-legs-and-sauce-served-wooden.jpg?s=170667a&w=0&k=20&c=aUitEl-IvnoLrW3zwuWr0o_N9-2FtA1EJhGRVeBrtqY=
+sushi = https://fusedbyfionauyema.com/wp-content/uploads/2021/02/Fused-by-Fiona-Uyema-Sushi-Q-A-how-to-make-sushi-at-home.jpg
+salad = https://www.kitchensanctuary.com/wp-content/uploads/2021/06/Simple-Green-Salad-with-Vinaigrette-Square-FS-3241.jpg
+
+
+
+burger small = https://propakistani.pk/wp-content/uploads/2022/04/front-view-tasty-meat-burger-wit.jpg
+pizza small = https://static.toiimg.com/photo/msid-87930581/87930581.jpg
+sushi small = https://i0.wp.com/bamboounion.pk/wp-content/uploads/2022/02/best-sushi-restaurant-in-Lahore.jpg?fit=1183%2C756&ssl=1
+salad small = https://www.momontimeout.com/wp-content/uploads/2021/08/snickers-apple-salad-square.jpeg

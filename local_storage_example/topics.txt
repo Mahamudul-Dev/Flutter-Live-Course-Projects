@@ -1,0 +1,16 @@
+Todays topics:
+    1. Shared Prefrences
+    2. Nested Routing
+    3. CRUD operation in List
+
+
+
+
+
+1. Shared Prefrence:
+======================
+Use case:
+    # Storing small amount of data.
+    # Skiping login process.
+    # Skipping Onboarding Screen/Introduction Screen.
+    # Improve user experience.
